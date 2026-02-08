@@ -1,0 +1,7 @@
+{
+  "name": "TOMATO - Futuristic 3D Food Delivery",
+  "description": "A high-end 3D food delivery application featuring glassmorphism, smooth animations, and a seamless ordering experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
